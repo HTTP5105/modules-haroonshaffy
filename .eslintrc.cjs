@@ -14,6 +14,7 @@ module.exports = {
     "no-tabs": 0,
     "indent": 0,
     "import/extensions": 0,
-    "no-unused-vars": 0
+    "no-unused-vars": 0,
+    "linebreak-style": 0
   },
 };
